@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+main{
+    max-width: 960px;
+    height: 100%;
+    background-color: aqua;
+    padding: 10px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 32px
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap ;
+    margin: 20px;
+    gap: 15px;
+    justify-content:space-evenly;
+    
+}
+.first{
+    max-width: 250px;
+    
+.para> h2{
+    font-size: 1.5rem;
+}
